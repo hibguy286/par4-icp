@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64d34680.css",
+    "main.js": "/static/js/main.fb224306.js",
+    "static/js/787.7d9624b8.chunk.js": "/static/js/787.7d9624b8.chunk.js",
+    "static/media/ada.png": "/static/media/ada.d9b90224323ccff57026.png",
+    "static/media/logo.jpg": "/static/media/logo.da54d70876f63c1f79ad.jpg",
+    "static/media/AeonikTRIAL-Regular.otf": "/static/media/AeonikTRIAL-Regular.f252af9282d8460f6582.otf",
+    "static/media/discord.png": "/static/media/discord.667df059ddf407979d68.png",
+    "static/media/eth.svg": "/static/media/eth.07b83aa6dc0a3f595acb96d050b3fc6a.svg",
+    "static/media/dollar.svg": "/static/media/dollar.06d3a578b2c8a4153dbbf9364a145e3b.svg",
+    "index.html": "/index.html",
+    "static/media/dai.svg": "/static/media/dai.433ecf60833a80b3da34d7b48026cd3c.svg",
+    "static/media/usdt.svg": "/static/media/usdt.2c1060dbb6747d4a94dcdd709c334871.svg",
+    "main.64d34680.css.map": "/static/css/main.64d34680.css.map",
+    "main.fb224306.js.map": "/static/js/main.fb224306.js.map",
+    "787.7d9624b8.chunk.js.map": "/static/js/787.7d9624b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d34680.css",
+    "static/js/main.fb224306.js"
+  ]
+}
